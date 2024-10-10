@@ -1,0 +1,18 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/_Sandbox/TashMaTash/UI/TashMaTashEndGameScreen.uss?fileID=7433441132597879392&amp;guid=d04d1af5f35bb3a50be9050414fe7ee7&amp;type=3#TashMaTashEndGameScreen" />
+    <ui:VisualElement name="Container" class="Container">
+        <ui:Label tabindex="-1" text="Game Over!" parse-escape-sequences="true" display-tooltip-when-elided="true" class="GameOverLabel" />
+        <ui:VisualElement name="Results" class="ResultsContainer">
+            <ui:Label tabindex="-1" text="Results" parse-escape-sequences="true" display-tooltip-when-elided="true" class="ResultsLabel" />
+            <ui:VisualElement name="PlayerInfoTemplate" class="PlayerInfo" style="display: none;">
+                <ui:Label tabindex="-1" text="1" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Position" class="Position" />
+                <ui:Label tabindex="-1" text="Player 1" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Name" class="Name" />
+                <ui:VisualElement name="Coins" class="Coins">
+                    <ui:Label tabindex="-1" text="20" parse-escape-sequences="true" display-tooltip-when-elided="true" name="CoinsNum" class="CoinsNum" />
+                    <ui:VisualElement name="CoinsImg" class="CoinsImg" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:Button text="Continue" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button" class="ContinueButton" />
+    </ui:VisualElement>
+</ui:UXML>

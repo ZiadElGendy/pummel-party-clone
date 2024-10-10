@@ -1,0 +1,92 @@
+.Container {
+    flex-grow: 1;
+    background-color: rgba(10, 7, 53, 0.45);
+    padding-top: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    padding-left: 10%;
+}
+
+.GameOverLabel {
+    justify-content: flex-start;
+    align-items: center;
+    -unity-text-align: upper-center;
+    -unity-font-style: bold;
+    color: rgb(255, 255, 255);
+    font-size: 48px;
+    margin: 0;
+    padding: 0;
+}
+
+.ResultsContainer {
+    flex-grow: initial;
+    background-color: rgb(63, 74, 135);
+    margin: 0 0 1% 0;
+    height: auto;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+}
+
+.ResultsLabel {
+    color: rgb(255, 255, 255);
+    padding: 0;
+    margin: 1%;
+    font-size: 44px;
+}
+
+.PlayerInfo {
+    justify-content: space-around;
+    margin: 0 1% 1% 1%;
+    background-color: rgba(0, 0, 0, 0.31);
+    flex-direction: row;
+}
+
+.Position {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    width: 33%;
+    -unity-text-align: upper-center;
+}
+
+.Name {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    width: 33%;
+    -unity-text-align: upper-center;
+}
+
+.Coins {
+    flex-grow: initial;
+    flex-direction: row;
+    width: 33%;
+    justify-content: center;
+}
+
+.CoinsNum {
+    -unity-text-align: upper-right;
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+}
+
+.CoinsImg {
+    flex-grow: 0;
+    flex-shrink: 0;
+    background-image: url("project://database/Assets/ThirdParty/Epic%20Toon%20FX/Textures/Emojis/bigsmile.png?fileID=2800000&guid=a887e55c507f0a24eae8c11437b3251e&type=3#bigsmile");
+    -unity-background-scale-mode: stretch-to-fill;
+    width: 50px;
+    height: 50px;
+    justify-content: flex-start;
+    align-items: auto;
+    align-self: center;
+}
+
+.ContinueButton {
+    margin: 0 30% 0 30%;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 212, 64);
+    font-size: 32px;
+    padding-top: 1%;
+    padding-right: 2%;
+}

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15448d2c-b60d-44c0-b1df-48129769c53e" name="Changes" comment="Merge with development">
+      <change beforePath="$PROJECT_DIR$/Assets/_Sandbox/TashMaTash/TashMaTashMinigame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Sandbox/TashMaTash/TashMaTashMinigame.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/779cc116a5954f1c9b92496e62345641175c00/a0/d6046828/WaitForSeconds.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://D:/Documents/Work/Phantasm/pummel-party-clone/Assets/_Game/Scripts/Player/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Documents/Work/Phantasm/pummel-party-clone/Assets/_Game/Scripts/Player/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Sandbox/TashMaTash/Scripts/SodaBottle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://D:/Documents/Work/Phantasm/pummel-party-clone/Assets/_Sandbox/TashMaTash/Scripts/SodaBottle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@14.0.11/Shaders/Lit.shader" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2lIlvvf1xak6fMQ9XFz7jMvuGzB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Attach to Unity Editor.Attach to Unity Editor.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;gendy&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.33f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath D:\Documents\Work\Phantasm\pummel-party-clone -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Documents\Work\Phantasm\pummel-party-clone" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.33f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\Documents\Work\Phantasm\pummel-party-clone -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Documents\Work\Phantasm\pummel-party-clone" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15448d2c-b60d-44c0-b1df-48129769c53e" name="Changes" comment="" />
+      <created>1724875710789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724875710789</updated>
+      <workItem from="1724875710792" duration="636000" />
+      <workItem from="1724916857947" duration="282000" />
+      <workItem from="1724918379245" duration="103000" />
+      <workItem from="1724920065861" duration="103000" />
+      <workItem from="1724928092540" duration="622000" />
+      <workItem from="1724932626119" duration="1681000" />
+      <workItem from="1725020409639" duration="12000" />
+      <workItem from="1725021080054" duration="38000" />
+      <workItem from="1725021147384" duration="1350000" />
+      <workItem from="1725035393451" duration="1766000" />
+      <workItem from="1725038041121" duration="189000" />
+      <workItem from="1725038249647" duration="465000" />
+      <workItem from="1725038756430" duration="6124000" />
+      <workItem from="1725206538776" duration="536000" />
+      <workItem from="1725207654966" duration="171000" />
+      <workItem from="1725207847821" duration="7491000" />
+      <workItem from="1725361180007" duration="12532000" />
+      <workItem from="1725450558063" duration="579000" />
+      <workItem from="1725451174299" duration="15332000" />
+      <workItem from="1725533234121" duration="69000" />
+      <workItem from="1725533320529" duration="5000" />
+      <workItem from="1725533335281" duration="10290000" />
+      <workItem from="1725555931362" duration="470000" />
+      <workItem from="1725556421059" duration="321000" />
+      <workItem from="1725789782506" duration="7332000" />
+      <workItem from="1725808796791" duration="6359000" />
+      <workItem from="1725880115599" duration="82000" />
+      <workItem from="1725880312927" duration="6398000" />
+      <workItem from="1725960728620" duration="268000" />
+      <workItem from="1725961025111" duration="6325000" />
+      <workItem from="1726094662740" duration="431000" />
+      <workItem from="1726230719356" duration="9658000" />
+      <workItem from="1726602816681" duration="724000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update game events to use templates">
+      <option name="closed" value="true" />
+      <created>1725209413064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725209413064</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Remove unecessary using directives">
+      <option name="closed" value="true" />
+      <created>1725379030609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725379030609</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge with development">
+      <option name="closed" value="true" />
+      <created>1725883413421</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725883413421</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Update game events to use templates" />
+    <MESSAGE value="Remove unecessary using directives" />
+    <MESSAGE value="Merge with development" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge with development" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
+        <watch expression="_isWaiting" language="C#" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
